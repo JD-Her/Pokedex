@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Paleta doce</string>
+    <string name="pokemon_logo_name">pokemon_logo\n</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="search">Search...</string>
+</resources>
